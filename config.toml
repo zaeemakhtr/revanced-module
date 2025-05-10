@@ -19,6 +19,7 @@ build-mode = "module"
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 build-mode = "both"
+dpi = "120-640dpi"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
@@ -29,6 +30,7 @@ included-patches = "'SIM spoof'"
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/x-corp/twitter/"
 build-mode = "both"
+dpi = "120-640dpi"
 included-patches = "'Open links with app chooser'"
 
 [Facebook]
