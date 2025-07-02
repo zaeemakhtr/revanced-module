@@ -1,6 +1,6 @@
 {
-  "version": "v10.48.0-release.0 (patches: 5.29.0)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/zaeemakhtr/revanced-module/releases/download/7/twitter-revanced-magisk-v10.48.0-release.0-all.zip",
+  "version": "v10.48.0-release.0 (patches: 5.30.0)",
+  "versionCode": 8,
+  "zipUrl": "https://github.com/zaeemakhtr/revanced-module/releases/download/8/twitter-revanced-magisk-v10.48.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/zaeemakhtr/revanced-module/update/build.md"
 }
