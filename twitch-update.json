@@ -1,6 +1,6 @@
 {
-  "version": "v16.9.1 (patches: 5.40.0)",
-  "versionCode": 20,
-  "zipUrl": "https://github.com/zaeemakhtr/revanced-module/releases/download/20/twitch-revanced-magisk-v16.9.1-all.zip",
+  "version": "v16.9.1 (patches: 5.41.0)",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/zaeemakhtr/revanced-module/releases/download/21/twitch-revanced-magisk-v16.9.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/zaeemakhtr/revanced-module/update/build.md"
 }
